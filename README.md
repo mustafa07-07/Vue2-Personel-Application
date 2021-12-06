@@ -1,4 +1,4 @@
-# softalya
+# Vue2 | Bootstrap | JSONPlaceholder
 
 > Crud İşlemleri
 
