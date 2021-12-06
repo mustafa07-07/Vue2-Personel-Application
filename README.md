@@ -1,6 +1,6 @@
-# Vue2 | Bootstrap | JSONPlaceholder
+# Personel App with VueJS 2 | Bootstrap 4 | JSONPlaceholder
 
-> Crud İşlemleri
+> Crud Process
 
 ## Build Setup
 
