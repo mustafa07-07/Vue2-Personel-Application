@@ -11,5 +11,5 @@ export const router =new VueRouter({
     {name :"duzenle",path:"/update", component:Update},
     {path:"*", redirect:"/"}
   ],
-  mode:"hash"
+  mode:"history"
 })
